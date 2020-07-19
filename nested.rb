@@ -133,4 +133,5 @@ def adding_to_dennis
       }
     }
   programmer_hash[languages] =+ "Assembley" 
+return programmer_hash
 end
